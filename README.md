@@ -20,3 +20,14 @@
 | [이차원 배열과 연산](https://www.acmicpc.net/problem/17140)       | 구현, 정렬, 시뮬레이션     |
 | [구슬 탈출 2](https://www.acmicpc.net/problem/13460)              | 구현, BFS, 시뮬레이션      |
 
+## 2주차: 시뮬레이션
+
+| 문제                                                             | 알고리즘 분류            |
+| :--------------------------------------------------------------- | :----------------------: |
+| [ZOAC 3](https://www.acmicpc.net/problem/20436)                  | 구현, 시뮬레이션, 전처리 |
+| [지구 온난화](https://www.acmicpc.net/problem/5212)              | 구현, 시뮬레이션         |
+| [후보 추천하기](https://www.acmicpc.net/problem/1713)            | 구현, 시뮬레이션         |
+| [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) | 구현, 시뮬레이션         |
+| [인구 이동](https://www.acmicpc.net/problem/16234)               | 구현, BFS, 시뮬레이션    |
+| [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)  | 구현, 시뮬레이션         |
+| [낚시왕](https://www.acmicpc.net/problem/17143)                  | 구현, 시뮬레이션         |
