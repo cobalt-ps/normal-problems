@@ -42,5 +42,5 @@
 | [센티와 마법의 뿅망치](https://www.acmicpc.net/problem/19638) | 구현, 시뮬레이션, 우선순위 큐        |
 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)      | 우선순위 큐, 트리를 사용한 집합과 맵 |
 | [강의실 배정](https://www.acmicpc.net/problem/11000)          | 우선순위 큐, 그리디, 정렬            |
-| [보석 도둑](https://www.acmicpc.net/problem/11000)            | 우선순위 큐, 그리디, 정렬            |
+| [보석 도둑](https://www.acmicpc.net/problem/1202)             | 우선순위 큐, 그리디, 정렬            |
 
