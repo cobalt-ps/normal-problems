@@ -31,3 +31,16 @@
 | [인구 이동](https://www.acmicpc.net/problem/16234)               | 구현, BFS, 시뮬레이션    |
 | [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)  | 구현, 시뮬레이션         |
 | [낚시왕](https://www.acmicpc.net/problem/17143)                  | 구현, 시뮬레이션         |
+
+## 3주차: 우선순위 큐
+
+| 문제                                                          | 알고리즘 분류                        |
+| :------------------------------------------------------------ | :----------------------------------: |
+| [크리스마스 선물](https://www.acmicpc.net/problem/14235)      | 우선순위 큐                          |
+| [최대 힙](https://www.acmicpc.net/problem/11279)              | 우선순위 큐                          |
+| [절댓값 힙](https://www.acmicpc.net/problem/11286)            | 우선순위 큐                          |
+| [센티와 마법의 뿅망치](https://www.acmicpc.net/problem/19638) | 구현, 시뮬레이션, 우선순위 큐        |
+| [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)      | 우선순위 큐, 트리를 사용한 집합과 맵 |
+| [강의실 배정](https://www.acmicpc.net/problem/11000)          | 우선순위 큐, 그리디, 정렬            |
+| [보석 도둑](https://www.acmicpc.net/problem/11000)            | 우선순위 큐, 그리디, 정렬            |
+
