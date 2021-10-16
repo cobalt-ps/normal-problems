@@ -44,3 +44,16 @@
 | [강의실 배정](https://www.acmicpc.net/problem/11000)          | 우선순위 큐, 그리디, 정렬            |
 | [보석 도둑](https://www.acmicpc.net/problem/1202)             | 우선순위 큐, 그리디, 정렬            |
 
+
+## 4주차: 삼성전자 대비 (구현)
+
+| 문제                                                            | 알고리즘 분류                              |
+| :-------------------------------------------------------------- | :----------------------------------------: |
+| [톱니바퀴](https://www.acmicpc.net/problem/14891)               | 구현, 시뮬레이션                           |
+| [연구소 3](https://www.acmicpc.net/problem/17142)               | 완전탐색, BFS                              |
+| [어른 상어](https://www.acmicpc.net/problem/19237)              | 구현, 시뮬레이션                           |
+| [모노미노도미노 2](https://www.acmicpc.net/problem/20061)       | 구현, 시뮬레이션                           |
+| [상어 중학교](https://www.acmicpc.net/problem/21609)            | 구현, BFS, DFS, 시뮬레이션                 |
+| [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) | 구현, 시뮬레이션                           |
+| [다리 만들기 2](https://www.acmicpc.net/problem/17472)          | 구현, BFS, DFS, 완전탐색, 최소 스패닝 트리 |
+
