@@ -68,3 +68,15 @@
 | [텀 프로젝트](https://www.acmicpc.net/problem/9466)        | DFS           |
 | [퍼즐](https://www.acmicpc.net/problem/1525)               | BFS           |
 
+## 6주차: DP, 문자열
+
+| 문제                                                     | 알고리즘 분류     |
+| :------------------------------------------------------- | :---------------: |
+| [회문](https://www.acmicpc.net/problem/17609)            | 문자열, 두 포인터 |
+| [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) | DP                |
+| [동전](https://www.acmicpc.net/problem/9084)             | DP, 배낭 문제     |
+| [부분 문자열](https://www.acmicpc.net/problem/16916)     | 문자열, KMP       |
+| [ACM Craft](https://www.acmicpc.net/problem/1005)        | DP, 위상 정렬     |
+| [양팔 저울](https://www.acmicpc.net/problem/2629)        | DP, 배낭 문제     |
+| [파일 탐색기](https://www.acmicpc.net/problem/20210)     | 문자열, 정렬      |
+
