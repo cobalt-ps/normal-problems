@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 7주차: 구현
+
+| 문제                                                   | 알고리즘 분류    |
+| :----------------------------------------------------- | :--------------: |
+| [단축키 지정](https://www.acmicpc.net/problem/1283)    | 구현, 문자열     |
+| [상어 초등학교](https://www.acmicpc.net/problem/21608) | 구현             |
+| [테트리미노](https://www.acmicpc.net/problem/14500)    | 구현, 완전탐색   |
+| [주사위 굴리기](https://www.acmicpc.net/problem/14499) | 구현, 시뮬레이션 |
+| [결! 합!](https://www.acmicpc.net/problem/16722)       | 구현             |
+| [짠돌이 호석](https://www.acmicpc.net/problem/21277)   | 구현, 완전탐색   |
+| [큐빙](https://www.acmicpc.net/problem/5373)           | 구현, 시뮬레이션 |
+
 ## 6주차: DP, 문자열
 
 | 문제                                                     | 알고리즘 분류     |
@@ -79,5 +91,4 @@
 | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | DFS, BFS            |
 | [미로 탐색](https://www.acmicpc.net/problem/2178) | BFS                 |
 | [연구소](https://www.acmicpc.net/problem/14502)   | 구현, BFS, 완전탐색 |
-
 
