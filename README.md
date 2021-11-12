@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 8주차: 그래프
+
+| 문제                                                     | 알고리즘 분류              |
+| :------------------------------------------------------- | :------------------------: |
+| [최단경로](https://www.acmicpc.net/problem/1753)         | 다익스트라                 |
+| [숨바꼭질 3](https://www.acmicpc.net/problem/13549)      | BFS, 다익스트라            |
+| [공주님을 구해라](https://www.acmicpc.net/problem/17836) | BFS                        |
+| [쉬운 최단거리](https://www.acmicpc.net/problem/14940)   | BFS                        |
+| [치즈](https://www.acmicpc.net/problem/2638)             | 구현, BFS, DFS, 시뮬레이션 |
+| [산책 (small)](https://www.acmicpc.net/problem/2638)     | BFS                        |
+| [회전 미로 탐색](https://www.acmicpc.net/problem/22949)  | 구현, BFS, 시뮬레이션      |
+
 ## 7주차: 구현
 
 | 문제                                                   | 알고리즘 분류    |
