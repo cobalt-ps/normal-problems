@@ -9,7 +9,7 @@
 | [공주님을 구해라](https://www.acmicpc.net/problem/17836) | BFS                        |
 | [쉬운 최단거리](https://www.acmicpc.net/problem/14940)   | BFS                        |
 | [치즈](https://www.acmicpc.net/problem/2638)             | 구현, BFS, DFS, 시뮬레이션 |
-| [산책 (small)](https://www.acmicpc.net/problem/2638)     | BFS                        |
+| [산책 (small)](https://www.acmicpc.net/problem/22868)    | BFS                        |
 | [회전 미로 탐색](https://www.acmicpc.net/problem/22949)  | 구현, BFS, 시뮬레이션      |
 
 ## 7주차: 구현
