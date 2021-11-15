@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 9주차: 최소 스패닝 트리 + 구현
+
+| 문제                                                     | 알고리즘 분류                      |
+| :------------------------------------------------------- | :--------------------------------: |
+| [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) | 최소 스패닝 트리                   |
+| [Z](https://www.acmicpc.net/problem/1074)                | 분할 정복, 재귀                    |
+| [치킨 배달](https://www.acmicpc.net/problem/15686)       | 구현, 완전탐색                     |
+| [뱀](https://www.acmicpc.net/problem/3190)               | 구현, 시뮬레이션, 덱, 큐           |
+| [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)  | 구현, 시뮬레이션                   |
+| [로봇](https://www.acmicpc.net/problem/1726)             | BFS                                |
+| [소문난 칠공주](https://www.acmicpc.net/problem/1941)    | 완전탐색, DFS, BFS, 조합, 백트래킹 |
+
 ## 8주차: 그래프
 
 | 문제                                                     | 알고리즘 분류              |
