@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 10주차: 문자열 + 백트래킹
+
+| 문제                                                     | 알고리즘 분류            |
+| :------------------------------------------------------- | :----------------------: |
+| [IPv6](https://www.acmicpc.net/problem/3107)             | 구현, 문자열             |
+| [문자열 폭발](https://www.acmicpc.net/problem/9935)      | 문자열, 스택             |
+| [N과 M (11)](https://www.acmicpc.net/problem/15665)      | 백트래킹                 |
+| [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) | 백트래킹, 완전탐색       |
+| [암호 만들기](https://www.acmicpc.net/problem/1759)      | 완전탐색, 조합, 백트래킹 |
+| [스도쿠](https://www.acmicpc.net/problem/2580)           | 백트래킹                 |
+| [색종이 붙이기](https://www.acmicpc.net/problem/17136)   | 완전탐색, 백트래킹       |
+
 ## 9주차: 최소 스패닝 트리 + 구현
 
 | 문제                                                     | 알고리즘 분류                      |
