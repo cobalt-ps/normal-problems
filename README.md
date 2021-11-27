@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 11주차: 이분탐색 + 그래프
+
+| 문제                                                         | 알고리즘 분류           |
+| :----------------------------------------------------------- | :---------------------: |
+| [공유기 설치](https://www.acmicpc.net/problem/2110)          | 이분탐색, 매개변수탐색  |
+| [두 용액](https://www.acmicpc.net/problem/2470)              | 이분탐색, 두 포인터     |
+| [호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278) | 완전탐색, 플로이드-와샬 |
+| [직사각형 탈출](https://www.acmicpc.net/problem/16973)       | 누적 합, BFS            |
+| [빙산](https://www.acmicpc.net/problem/2573)                 | BFS, DFS, 구현          |
+| [불!](https://www.acmicpc.net/problem/4179)                  | BFS                     |
+| [모래성](https://www.acmicpc.net/problem/4179)               | BFS                     |
+
 ## 10주차: 문자열 + 백트래킹
 
 | 문제                                                     | 알고리즘 분류            |
