@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 12주차: 투포인터
+
+| 문제                                                  | 알고리즘 분류                                      |
+| :---------------------------------------------------- | :------------------------------------------------: |
+| [부분합](https://www.acmicpc.net/problem/1806)        | 두 포인터                                          |
+| [좋다](https://www.acmicpc.net/problem/1253)          | 정렬, 이분탐색, 두 포인터, 해시를 사용한 집합과 맵 |
+| [다이어트](https://www.acmicpc.net/problem/1484)      | 정수론, 두 포인터                                  |
+| [소수의 연속합](https://www.acmicpc.net/problem/1644) | 소수 판정, 두 포인터                               |
+| [고냥이](https://www.acmicpc.net/problem/16472)       | 두 포인터                                          |
+| [대표 선수](https://www.acmicpc.net/problem/2461)     | 구현, 두 포인터                                    |
+| [수열의 장인](https://www.acmicpc.net/problem/10885)  | 그리디                                             |
+
 ## 11주차: 이분탐색 + 그래프
 
 | 문제                                                         | 알고리즘 분류           |
