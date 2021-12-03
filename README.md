@@ -10,7 +10,7 @@
 | [직사각형 탈출](https://www.acmicpc.net/problem/16973)       | 누적 합, BFS            |
 | [빙산](https://www.acmicpc.net/problem/2573)                 | BFS, DFS, 구현          |
 | [불!](https://www.acmicpc.net/problem/4179)                  | BFS                     |
-| [모래성](https://www.acmicpc.net/problem/4179)               | BFS                     |
+| [모래성](https://www.acmicpc.net/problem/10711)              | BFS                     |
 
 ## 10주차: 문자열 + 백트래킹
 
