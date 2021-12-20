@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 14주차: 다익스트라
+
+| 문제                                                              | 알고리즘 분류             |
+| :---------------------------------------------------------------- | :-----------------------: |
+| [최소비용 구하기](https://www.acmicpc.net/problem/1916)           | 다익스트라                |
+| [녹색 옷 입은 애가 젤다지?](https://www.acmicpc.net/problem/4485) | 다익스트라                |
+| [알고스팟](https://www.acmicpc.net/problem/1261)                  | 다익스트라, 0-1 BFS       |
+| [택배](https://www.acmicpc.net/problem/1719)                      | 다익스트라, 플로이드-와샬 |
+| [파티](https://www.acmicpc.net/problem/1238)                      | 다익스트라                |
+| [미확인 도착지](https://www.acmicpc.net/problem/9370)             | 다익스트라                |
+| [K번째 최단경로](https://www.acmicpc.net/problem/1854)            | 다익스트라, 우선순위 큐   |
+
 ## 13주차: 정규표현식 + 최소 스패닝 트리
 
 | 문제                                                                            | 알고리즘 분류            |
