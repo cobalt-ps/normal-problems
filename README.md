@@ -1,5 +1,18 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 15주차: 완전탐색 + 구현
+
+| 문제                                                   | 알고리즘 분류                        |
+| :----------------------------------------------------- | :----------------------------------: |
+| [직각삼각형](https://www.acmicpc.net/problem/1711)     | 기하학, 완전탐색                     |
+| [리모컨](https://www.acmicpc.net/problem/1107)         | 완전탐색                             |
+| [괄호 추가하기](https://www.acmicpc.net/problem/16637) | 완전탐색                             |
+| [감시](https://www.acmicpc.net/problem/15683)          | 구현, 시뮬레이션                     |
+| [개리맨더링](https://www.acmicpc.net/problem/17471)    | 완전탐색, BFS, DFS, 비트마스킹       |
+| [나무 재테크](https://www.acmicpc.net/problem/16235)   | 구현, 시뮬레이션                     |
+| [청소년 상어](https://www.acmicpc.net/problem/19236)   | 구현, 시뮬레이션, 백트래킹           |
+| [주사위 윷놀이](https://www.acmicpc.net/problem/17825) | 구현, 완전탐색, 시뮬레이션, 백트래킹 |
+
 ## 14주차: 다익스트라
 
 | 문제                                                              | 알고리즘 분류             |
