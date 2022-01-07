@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 16주차: 그래프
+
+| 문제                                                 | 알고리즘 분류                        |
+| :--------------------------------------------------- | :----------------------------------: |
+| [내리막 길](https://www.acmicpc.net/problem/1520)    | BFS, DP                              |
+| [스타트링크](https://www.acmicpc.net/problem/5014)   | BFS                                  |
+| [여행 가자](https://www.acmicpc.net/problem/1976)    | 분리 집합                            |
+| [중량제한](https://www.acmicpc.net/problem/1939)     | 이분탐색, BFS, 분리 집합             |
+| [스타트 택시](https://www.acmicpc.net/problem/19238) | BFS, 구현, 시뮬레이션                |
+| [2048 (Easy)](https://www.acmicpc.net/problem/12100) | 구현, 완전탐색, 시뮬레이션, 백트래킹 |
+| [게임](https://www.acmicpc.net/problem/1103)         | DFS, DP                              |
+
 ## 15주차: 완전탐색 + 구현
 
 | 문제                                                   | 알고리즘 분류                        |
