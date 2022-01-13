@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 17주차: 분할정복 + 시뮬레이션
+
+| 문제                                                              | 알고리즘 분류         |
+| :---------------------------------------------------------------- | :-------------------: |
+| [샤워실 바닥 깔기 (Small)](https://www.acmicpc.net/problem/14600) | 구현, 분할정복        |
+| [트리](https://www.acmicpc.net/problem/4256)                      | 트리, 분할정복, 재귀  |
+| [로봇 청소기](https://www.acmicpc.net/problem/14503)              | 구현, 시뮬레이션      |
+| [독서실 거리두기](https://www.acmicpc.net/problem/20665)          | 구현, 시뮬레이션      |
+| [구슬 탈출](https://www.acmicpc.net/problem/13459)                | 구현, BFS, 시뮬레이션 |
+| [새로운 게임 2](https://www.acmicpc.net/problem/17837)            | 구현, 시뮬레이션      |
+| [구슬 탈출 4](https://www.acmicpc.net/problem/15653)              | 구현, BFS, 시뮬레이션 |
+
 ## 16주차: 그래프
 
 | 문제                                                 | 알고리즘 분류                        |
