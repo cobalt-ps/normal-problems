@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 18주차: 세그먼트 트리 + 그래프
+
+| 문제                                                        | 알고리즘 분류           |
+| :---------------------------------------------------------- | :---------------------: |
+| [구간 합 구하기](https://www.acmicpc.net/problem/2042)      | 세그먼트 트리           |
+| [사탕상자](https://www.acmicpc.net/problem/2243)            | 세그먼트 트리, 이분탐색 |
+| [샘터](https://www.acmicpc.net/problem/18513)               | BFS                     |
+| [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) | BFS                     |
+| [집합의 표현](https://www.acmicpc.net/problem/1717)         | 분리 집합               |
+| [네트워크 연결](https://www.acmicpc.net/problem/1922)       | 최소 스패닝 트리        |
+| [줄 세우기](https://www.acmicpc.net/problem/2252)           | 위상 정렬               |
+
 ## 17주차: 분할정복 + 시뮬레이션
 
 | 문제                                                              | 알고리즘 분류         |
