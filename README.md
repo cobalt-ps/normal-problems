@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 19주차: 수학, 다이나믹 프로그래밍, 컴퓨터 이론
+
+| 문제                                                   | 알고리즘 분류 |
+| :----------------------------------------------------- | :-----------: |
+| [피보나치 수](https://www.acmicpc.net/problem/2747)    | 수학, 구현    |
+| [캥거루 세마리](https://www.acmicpc.net/problem/2965)  | 수학          |
+| [삼각형과 세 변](https://www.acmicpc.net/problem/5073) | 수학, 기하학  |
+| [01타일](https://www.acmicpc.net/problem/1904)         | DP            |
+| [계단 오르기](https://www.acmicpc.net/problem/2579)    | DP            |
+| [포도주 시식](https://www.acmicpc.net/problem/2156)    | DP            |
+| [if](https://www.acmicpc.net/problem/15549)            | 애드 혹, CS   |
+
 ## 18주차: 세그먼트 트리 + 그래프
 
 | 문제                                                        | 알고리즘 분류           |
