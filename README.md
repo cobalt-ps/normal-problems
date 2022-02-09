@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 21주차: 2022 카카오 블라인드 채용
+
+| 문제                                                                                   | 알고리즘 분류       |
+| :------------------------------------------------------------------------------------- | :-----------------: |
+| [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334)             | 문자열, 구현, 해시  |
+| [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335) | 수학                |
+| [주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)             | 구현                |
+| [양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342)                   | 시뮬레이션, 그리디  |
+| [양과 늑대](https://programmers.co.kr/learn/courses/30/lessons/92343)                  | 트리, DFS, BFS      |
+| [파괴되지 않은 건물](https://programmers.co.kr/learn/courses/30/lessons/92344)         | DP                  |
+| [사라지는 발판](https://programmers.co.kr/learn/courses/30/lessons/92345)              | 게임 이론, 백트래킹 |
+
 ## 20주차: 정렬 + 투 포인터
 
 | 문제                                                     | 알고리즘 분류                        |
