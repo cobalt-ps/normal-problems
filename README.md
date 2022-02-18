@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 23주차: Fastcampus 문제 1 SET + 구현
+
+| 문제                                                      | 알고리즘 분류              |
+| :-------------------------------------------------------- | :------------------------: |
+| [소수 최소 공배수](https://www.acmicpc.net/problem/21919) | 소수 판정                  |
+| [학부 연구생 민상](https://www.acmicpc.net/problem/21922) | 구현, DFS, BFS, 시뮬레이션 |
+| [곡예 비행](https://www.acmicpc.net/problem/21923)        | DP                         |
+| [도시 건설](https://www.acmicpc.net/problem/21924)        | 최소 스패닝 트리           |
+| [짝수 팰린드롬](https://www.acmicpc.net/problem/21925)    | DP, 그리디                 |
+| [시험 감독](https://www.acmicpc.net/problem/13458)        | 사칙연산                   |
+| [주사위 굴리기](https://www.acmicpc.net/problem/14499)    | 구현, 시뮬레이션           |
+
 ## 22주차: 정규표현식 + 정답률 낮은 문제
 
 | 문제                                                                            | 알고리즘 분류                        |
