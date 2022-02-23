@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 24주차: Fastcampus 문제 2 SET + 3 SET
+
+| 문제                                                                           | 알고리즘 분류                                                                         |
+| :----------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------: |
+| [가장 긴 짝수 연속한 부분 수열 (small)](https://www.acmicpc.net/problem/22857) | DP, 두 포인터                                                                         |
+| [작업](https://www.acmicpc.net/problem/21937)                                  | DFS                                                                                   |
+| [문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939)            | 우선순위 큐, 트리를 사용한 집합과 맵                                                  |
+| [가운데에서 만나기](https://www.acmicpc.net/problem/21940)                     | 플로이드-와샬                                                                         |
+| [원상 복구 (large)](https://www.acmicpc.net/problem/22863)                     | 순열 싸이클 분할, 희소 배열                                                           |
+| [폴더 정리 (small)](https://www.acmicpc.net/problem/22860)                     | 문자열, 시뮬레이션, DFS, 재귀, 구현, 해시를 사용한 집합과 맵, 트리를 사용한 집합과 맵 |
+| [부품 대여장](https://www.acmicpc.net/problem/21942)                           | 문자열, 파싱, 해시를 사용한 집합과 맵                                                 |
+
 ## 23주차: Fastcampus 문제 1 SET + 구현
 
 | 문제                                                      | 알고리즘 분류              |
