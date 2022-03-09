@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 25주차: 정답률 낮은 문제 모음
+
+| 문제                                                   | 알고리즘 분류                              |
+| :----------------------------------------------------- | :----------------------------------------: |
+| [물통](https://www.acmicpc.net/problem/2251)           | DFS, BFS                                   |
+| [매직 스타](https://www.acmicpc.net/problem/3967)      | 구현, 백트래킹                             |
+| [불!](https://www.acmicpc.net/problem/4179)            | BFS                                        |
+| [모래성](https://www.acmicpc.net/problem/10711)        | BFS                                        |
+| [파일 탐색기](https://www.acmicpc.net/problem/20210)   | 구현, 문자열, 정렬                         |
+| [다리 만들기 2](https://www.acmicpc.net/problem/17472) | 구현, BFS, DFS, 완전탐색, 최소 스패닝 트리 |
+| [게임](https://www.acmicpc.net/problem/1103)           | DP, DFS                                    |
+
 ## 24주차: Fastcampus 문제 2 SET + 3 SET
 
 | 문제                                                                           | 알고리즘 분류                                                                         |
