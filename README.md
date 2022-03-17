@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 26주차: 프로그래머스 고득점 Kit 해시 + 힙
+
+| 문제                                                                           | 알고리즘 분류 |
+| :----------------------------------------------------------------------------- | :-----------: |
+| [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | 해시          |
+| [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)      | 해시          |
+| [위장](https://programmers.co.kr/learn/courses/30/lessons/42578)               | 해시          |
+| [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)         | 해시          |
+| [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)            | 우선순위 큐   |
+| [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)    | 우선순위 큐   |
+| [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)     | 우선순위 큐   |
+
 ## 25주차: 정답률 낮은 문제 모음
 
 | 문제                                                   | 알고리즘 분류                              |
