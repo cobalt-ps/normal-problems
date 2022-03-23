@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 27주차: 프로그래머스 고득점 Kit 완전탐색 + 깊이/너비 우선 탐색
+
+| 문제                                                                  | 알고리즘 분류 |
+| :-------------------------------------------------------------------- | :-----------: |
+| [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)  | 완전탐색      |
+| [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | 완전탐색      |
+| [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)      | 완전탐색      |
+| [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | DFS           |
+| [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)  | DFS, BFS      |
+| [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | BFS           |
+| [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)  | DFS           |
+
 ## 26주차: 프로그래머스 고득점 Kit 해시 + 힙
 
 | 문제                                                                           | 알고리즘 분류 |
