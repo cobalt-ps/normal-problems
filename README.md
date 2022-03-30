@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 28주차: 프로그래머스 고득점 Kit 정렬 + 스택/큐
+
+| 문제                                                                           | 알고리즘 분류 |
+| :----------------------------------------------------------------------------- | :-----------: |
+| [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)            | 정렬          |
+| [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)         | 정렬          |
+| [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)            | 정렬          |
+| [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)           | 스택          |
+| [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)             | 큐            |
+| [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | 큐            |
+| [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584)          | 스택          |
+
 ## 27주차: 프로그래머스 고득점 Kit 완전탐색 + 깊이/너비 우선 탐색
 
 | 문제                                                                  | 알고리즘 분류 |
