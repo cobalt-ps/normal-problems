@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 29주차: 2018 카카오 블라인드 채용 1차
+
+| 문제                                                                        |
+| :-------------------------------------------------------------------------- |
+| [추석 트래픽](https://programmers.co.kr/learn/courses/30/lessons/17676)     |
+| [뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) |
+| [셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)        |
+| [프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)     |
+| [캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)            |
+| [비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)        |
+| [다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)       |
+
 ## 28주차: 프로그래머스 고득점 Kit 정렬 + 스택/큐
 
 | 문제                                                                           | 알고리즘 분류 |
