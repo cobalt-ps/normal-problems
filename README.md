@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 30주차: 여러 알고리즘 풀이
+
+| 문제                                              | 알고리즘 분류          |
+| :------------------------------------------------ | :--------------------: |
+| [괄호의 값](https://www.acmicpc.net/problem/2504) | 스택, 재귀             |
+| [탑](https://www.acmicpc.net/problem/2493)        | 스택                   |
+| [오큰수](https://www.acmicpc.net/problem/17298)   | 스택                   |
+| [방 번호](https://www.acmicpc.net/problem/1082)   | DP, 그리디             |
+| [뒤집기](https://www.acmicpc.net/problem/15999)   | 분할 정복              |
+| [문제집](https://www.acmicpc.net/problem/1766)    | 우선순위 큐, 위상 정렬 |
+| [쇼핑몰](https://www.acmicpc.net/problem/17612)   | 우선순위 큐            |
+
 ## 29주차: 2018 카카오 블라인드 채용 1차
 
 | 문제                                                                        |
