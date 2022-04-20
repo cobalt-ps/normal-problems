@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 31주차: L정보통신 2021 기출 + 구현
+
+| 문제                                                      | 알고리즘 분류                                  |
+| :-------------------------------------------------------- | :--------------------------------------------: |
+| [LCD Test](https://www.acmicpc.net/problem/2290)          | 구현                                           |
+| [투에-모스 문자열](https://www.acmicpc.net/problem/18222) | 분할 정복, 재귀                                |
+| [월드컵](https://www.acmicpc.net/problem/6987)            | 완전탐색, 백트래킹                             |
+| [최소 스패닝 트리](https://www.acmicpc.net/problem/1197)  | 최소 스패닝 트리                               |
+| [카드 게임](https://www.acmicpc.net/problem/11062)        | DP, 게임 이론                                  |
+| [계보 복원가 호석](https://www.acmicpc.net/problem/21276) | 정렬, 트리, 해시를 사용한 집합과 맵, 위상 정렬 |
+| [가운데를 말해요](https://www.acmicpc.net/problem/1655)   | 우선순위 큐                                    |
+
 ## 30주차: 여러 알고리즘 풀이
 
 | 문제                                              | 알고리즘 분류          |
