@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 33주차: 시뮬레이션 + 투포인터 + 그래프
+
+| 문제                                                             | 알고리즘 분류                        |
+| :--------------------------------------------------------------- | :----------------------------------: |
+| [문자열 지옥에 빠진 호석](https://www.acmicpc.net/problem/20166) | 문자열, DFS, 해시를 사용한 집합과 맵 |
+| [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366)     | 이분 탐색, 두 포인터                 |
+| [아기돼지와 늑대](https://www.acmicpc.net/problem/16441)         | BFS                                  |
+| [문자열 생성](https://www.acmicpc.net/problem/6137)              | 문자열, 그리디, 두 포인터            |
+| [보스몬스터 전리품](https://www.acmicpc.net/problem/20005)       | 구현, BFS, 시뮬레이션                |
+| [위치 바꾸기](https://www.acmicpc.net/problem/1580)              | 구현, BFS                            |
+| [회전 미로 탐색](https://www.acmicpc.net/problem/22949)          | 구현, BFS, 시뮬레이션                |
+
 ## 32주차: 삼성 기출 문제 (구현)
 
 | 문제                                                             | 알고리즘 분류              |
