@@ -10,7 +10,7 @@
 | [화살표 미로 (Easy)](https://www.acmicpc.net/problem/20419) | BFS, 다익스트라   |
 | [밤편지](https://www.acmicpc.net/problem/23258)             | DP, 플로이드-와샬 |
 | [망가진 나무](https://www.acmicpc.net/problem/24232)        | DP, 트리, DFS     |
-| [달빛 여우](https://www.acmicpc.net/problem/24232)          | 다익스트라        |
+| [달빛 여우](https://www.acmicpc.net/problem/16118)          | 다익스트라        |
 
 ## 33주차: 시뮬레이션 + 투포인터 + 그래프
 
