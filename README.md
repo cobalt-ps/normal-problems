@@ -1,5 +1,17 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 35주차: 백트래킹, 최소 신장 트리
+
+| 문제                                                         | 알고리즘 분류            |
+| :----------------------------------------------------------- | :----------------------: |
+| [에너지 모으기](https://www.acmicpc.net/problem/16198)       | 완전탐색, 백트래킹       |
+| [무기 공학](https://www.acmicpc.net/problem/18430)           | 백트래킹                 |
+| [NxM 보드 완주하기](https://www.acmicpc.net/problem/9944)    | 구현, 백트래킹           |
+| [안정적인 네트워크](https://www.acmicpc.net/problem/2406)    | 최소 스패닝 트리         |
+| [연산자 끼워넣기 (3)](https://www.acmicpc.net/problem/15659) | 백트래킹, 스택           |
+| [복제 로봇](https://www.acmicpc.net/problem/1944)            | BFS, 최소 스패닝 트리    |
+| [도로](https://www.acmicpc.net/problem/1045)                 | 그리디, 최소 스패닝 트리 |
+
 ## 34주차: 다익스트라 + DP
 
 | 문제                                                        | 알고리즘 분류     |
