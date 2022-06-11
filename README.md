@@ -1,5 +1,18 @@
 # 코딩테스트, 발목 잡히지 말자
 
+## 38주차: 프로그래머스 위클리 챌린지
+
+| 문제                                                                             |
+| :------------------------------------------------------------------------------- |
+| [모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)            |
+| [피로도](https://programmers.co.kr/learn/courses/30/lessons/87946)               |
+| [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971) |
+| [교점에 별 만들기](https://programmers.co.kr/learn/courses/30/lessons/87377)     |
+| [퍼즐 조각 채우기](https://programmers.co.kr/learn/courses/30/lessons/84021)     |
+| [아이템 줍기](https://programmers.co.kr/learn/courses/30/lessons/87694)          |
+| [부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612) |
+| [최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)         |
+
 ## 37주차: 그리디, 이분 탐색
 
 | 문제                                                    | 알고리즘 분류                     |
