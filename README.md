@@ -3,6 +3,18 @@
 1주일간 7문제에 대한 풀이를 시도합니다. (하루 평균 1문제)  
 언어에 따라 풀이 불가 등 선정 문제에 특이 사항이 있을 경우 8문제 이상 선정되기도 합니다.
 
+## 39주차: 그래프, 세그먼트 트리
+
+| 문제                                                           | 알고리즘 분류           |
+| :------------------------------------------------------------- | :---------------------: |
+| [판치기](https://www.acmicpc.net/problem/23085)                | BFS                     |
+| [중첩 집합 모델](https://www.acmicpc.net/problem/19641)        | BFS                     |
+| [야바위 게임](https://www.acmicpc.net/problem/23741)           | DP, BFS                 |
+| [육각형 우리 속의 개미](https://www.acmicpc.net/problem/17370) | 완전탐색, BFS, 백트래킹 |
+| [미로 탈출하기](https://www.acmicpc.net/problem/17090)         | DP, BFS                 |
+| [포항항](https://www.acmicpc.net/problem/23817)                | BFS, 완전탐색           |
+| [수열과 쿼리 17](https://www.acmicpc.net/problem/14438)        | 세그먼트 트리           |
+
 ## 38주차: 프로그래머스 위클리 챌린지
 
 | 문제                                                                             |
