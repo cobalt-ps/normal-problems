@@ -3,6 +3,18 @@
 1주일간 7문제에 대한 풀이를 시도합니다. (하루 평균 1문제)  
 언어에 따라 풀이 불가 등 선정 문제에 특이 사항이 있을 경우 8문제 이상 선정되기도 합니다.
 
+## 42주차: 구현
+
+| 문제                                                            | 알고리즘 분류         |
+| :-------------------------------------------------------------- | :-------------------: |
+| [배열 돌리기 2](https://www.acmicpc.net/problem/16927)          | 구현                  |
+| [Puyo Puyo](https://www.acmicpc.net/problem/11559)              | 구현, BFS, 시뮬레이션 |
+| [톱니바퀴 (2)](https://www.acmicpc.net/problem/15662)           | 구현, 시뮬레이션      |
+| [가스관](https://www.acmicpc.net/problem/2931)                  | 구현, 시뮬레이션      |
+| [Maaaaaaaaaze](https://www.acmicpc.net/problem/16985)           | 구현, 완전탐색, BFS   |
+| [경사로](https://www.acmicpc.net/problem/14890)                 | 구현                  |
+| [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) | 구현, 시뮬레이션      |
+
 ## 41주차: 자료구조
 
 | 문제                                                      | 알고리즘 분류                        |
