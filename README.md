@@ -3,6 +3,18 @@
 1주일간 7문제에 대한 풀이를 시도합니다. (하루 평균 1문제)  
 언어에 따라 풀이 불가 등 선정 문제에 특이 사항이 있을 경우 8문제 이상 선정되기도 합니다.
 
+## 45주차: 종합 문제
+
+| 문제                                                     | 알고리즘 분류                   |
+| :------------------------------------------------------- | :-----------------------------: |
+| [수강 과목](https://www.acmicpc.net/problem/17845)       | DP, 배낭 문제                   |
+| [입국심사](https://www.acmicpc.net/problem/3079)         | 이분 탐색, 매개 변수 탐색       |
+| [중앙값 구하기](https://www.acmicpc.net/problem/2696)    | 우선순위 큐                     |
+| [공항](https://www.acmicpc.net/problem/10775)            | 그리디, 분리 집합               |
+| [택배](https://www.acmicpc.net/problem/8980)             | 그리디, 정렬                    |
+| [피자판매](https://www.acmicpc.net/problem/2632)         | 이분 탐색, 누적 합              |
+| [Gaaaaaaaaaarden](https://www.acmicpc.net/problem/18809) | 구현, 완전탐색, BFS, 시뮬레이션 |
+
 ## 44주차: 종합 문제
 
 | 문제                                                                  | 알고리즘 분류                         |
