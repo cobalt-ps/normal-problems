@@ -3,6 +3,18 @@
 1주일간 7문제에 대한 풀이를 시도합니다. (하루 평균 1문제)  
 언어에 따라 풀이 불가 등 선정 문제에 특이 사항이 있을 경우 8문제 이상 선정되기도 합니다.
 
+## 46주차: 종합 문제
+
+| 문제                                                             | 알고리즘 분류          |
+| :--------------------------------------------------------------- | :--------------------: |
+| [경비원](https://www.acmicpc.net/problem/2564)                   | 구현, 많은 조건 분기   |
+| [동전 2](https://www.acmicpc.net/problem/2294)                   | DP                     |
+| [거짓말](https://www.acmicpc.net/problem/1043)                   | 그래프 탐색, 분리 집합 |
+| [풍선 맞추기](https://www.acmicpc.net/problem/11509)             | 그리디                 |
+| [소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022) | 구현                   |
+| [팰린드롬 분할](https://www.acmicpc.net/problem/1509)            | DP                     |
+| [큐빙](https://www.acmicpc.net/problem/5373)                     | 구현, 시뮬레이션       |
+
 ## 45주차: 종합 문제
 
 | 문제                                                     | 알고리즘 분류                   |
