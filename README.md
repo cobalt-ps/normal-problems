@@ -3,6 +3,18 @@
 1주일간 7문제에 대한 풀이를 시도합니다. (하루 평균 1문제)  
 언어에 따라 풀이 불가 등 선정 문제에 특이 사항이 있을 경우 8문제 이상 선정되기도 합니다.
 
+## 47주차: 종합 문제
+
+| 문제                                                          | 알고리즘 분류              |
+| :------------------------------------------------------------ | :------------------------: |
+| [보물섬](https://www.acmicpc.net/problem/2589)                | 완전탐색, BFS              |
+| [배](https://www.acmicpc.net/problem/1092)                    | 그리디, 정렬               |
+| [타임머신](https://www.acmicpc.net/problem/11657)             | 벨만포드                   |
+| [줄 세우기](https://www.acmicpc.net/problem/7570)             | DP, 그리디                 |
+| [세 용액](https://www.acmicpc.net/problem/2473)               | 정렬, 이분 탐색, 두 포인터 |
+| [카드 게임](https://www.acmicpc.net/problem/11062)            | DP, 게임 이론              |
+| [벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933) | BFS                        |
+
 ## 46주차: 종합 문제
 
 | 문제                                                             | 알고리즘 분류          |
